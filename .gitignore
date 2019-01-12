@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # api key
-api_keys.py
+.py
