@@ -1,0 +1,24 @@
+Observations on the Relationship between Latitude and Weather around the World
+
+Considering the "Temperature in World Cities", it is clear that the highest temperatures are found 
+at and below the equator. As you rise up north of the equator, the temperaturr has a steady decrease. 
+This is easily explained by the fact that the northern hemisphere is currently experiencing colder weather
+winter while the southern hemisphere is currently experiencing warmer weather/summer.
+
+Considering the "Humudity in World Cities", "Wind Speed in World Cities" and "Cloudiness in World Cities" figures, 
+it looks apparent that there is a large spread in the % of cloudiness and humidity. This is likely because 
+there are other variables that will need to be considered in order to find out the relation between city 
+location and humidity and cloudiness. One variable that may need to be considered would be the alitude of a 
+city alongside its latitude.
+
+Condiering "Wind Speed in World Cities", there was a generla spread that displayed wind speed as low across
+most cities around the globe. While the data for "Humudity in World Cities" demonstrated that most cities tended
+to have higher levels of humidity. This could be related to the atitude of the city but sould also be related
+to the types of locations humans choose to put down a city. More research would be required to better dissect 
+the relationship between wind speed/humidity and city location.
+
+While looking at all this data, it is important to note that all this is a snapshot for the day the API data 
+was called. Considering this, we would need to get a lot of data generated for multiple days in order to truly 
+understand the relationship between latitude and weather.
+
+
